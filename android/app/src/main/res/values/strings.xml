@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntegrateRNWithExistingApps</string>
+    <string name="start_react_native_screen">Start React Native Screen</string>
+</resources>
